@@ -35,63 +35,72 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+Тимофей Абакумов, студент направления Математика и механика  
 
-education:
-  - area: Student
-    institution: RUDN
-    date_start: 2024-09-01
-    date_end: 2028-05-31
-    summary: 
-      
-work:
-  - position: Student
-    company_name: RUDN
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
-    summary: 
+interests:  
+  - Теоретическая механика  
+  - Дифференциальные уравнения  
+  - Математическая физика  
+  - Численные методы  
+  - Научное программирование  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Хард скиллы
-    items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+education:  
+  - area: Student  
+    institution: RUDN  
+    date_start: 2024-09-01  
+    date_end: 2028-05-31  
+    summary: Студент направления "Математика и механика". Интересуюсь прикладными задачами механики, решением уравнений математической физики и реализацией вычислительных алгоритмов.  
 
-languages:
-  - name: Русский
-    percent: 100
-  - name: Английский
-    percent: 60
+work:  
+  - position: Student  
+    company_name: RUDN  
+    company_url: ''  
+    company_logo: ''  
+    date_start: 2024-09-01  
+    date_end: ''  
+    summary: Участвую в научных и учебных проектах, связанных с механикой сплошных сред, моделированием и численными расчетами в инженерных задачах.  
+
+# Skills  
+# Add your own SVG icons to assets/media/icons/  
+skills:  
+  - name: Хард скиллы  
+    items:  
+      - name: Математический анализ  
+        description: Глубокое понимание теории и применение в моделировании.  
+        percent: 90  
+        icon: square-root-variable  
+      - name: C++  
+        description: Решение задач численного моделирования и оптимизации.  
+        percent: 75  
+        icon: code-bracket  
+      - name: MATLAB  
+        description: Использование для моделирования физических процессов.  
+        percent: 70  
+        icon: chart-bar  
+      - name: Дифференциальные уравнения  
+        description: Решение задач динамики и физики с помощью ОДУ и ЧПУ.  
+        percent: 80  
+        icon: equation  
+  - name: Хобби  
+    color: '#eeac02'  
+    color_border: '#f0bf23'  
+    items:  
+      - name: Настольные игры  
+        description: Увлекаюсь стратегическими играми и головоломками.  
+        percent: 85  
+      - name: Велоспорт  
+        description: Часто катаюсь на велосипеде, особенно летом.  
+        percent: 90  
+      - name: Музыка  
+        description: Играю на гитаре и слушаю классический рок.  
+        percent: 75  
+
+languages:  
+  - name: Русский  
+    percent: 100  
+  - name: Английский  
+    percent: 70  
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
