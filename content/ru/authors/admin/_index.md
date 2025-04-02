@@ -35,8 +35,6 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-Тимофей Абакумов, студент направления Математика и механика  
-
 interests:  
   - Теоретическая механика  
   - Дифференциальные уравнения  
